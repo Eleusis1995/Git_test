@@ -1,0 +1,3 @@
+git remote add origin_2 git@github.com:Eleusis1995/Git_test.git
+git branch -M main
+git push -u origin_2 main
